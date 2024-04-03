@@ -1,0 +1,97 @@
+/* nav */
+.nav-link:hover{
+    color: white;
+    border-bottom: 2px solid red;
+}
+.navbar{
+    background-color: #007F73;
+}
+.active{
+    border-bottom: 2px solid red;
+}
+.fs-5{
+    margin-left: 20px;
+}
+/* body */
+.main1{
+    margin-top: 12% !important;
+}
+.btn-light{
+    background-color: #007F73 !important;
+    border-radius: 30px;
+    /* font-weight: bold; */
+    font-size: 20px;
+    width: 27%;
+    padding: 12px;
+    border:2px solid #5B9A8B;
+}
+.fa-regular{
+    font-size: 30px;
+}
+.impact{
+    font-size: 50px;
+}
+.lorem{
+    font-weight: bold;
+}
+/* card */
+.mx-auto{
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+.home-card{
+    height: 250px;
+    width: 18rem;
+    /* width: 23%; */
+    color: #fff;
+    margin-bottom: 12%;
+    margin-top: -10%;
+    background-color: #007F73 !important;
+}
+.w-25{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25% !important;
+    margin-top: 17%;
+    padding: 10px;
+}
+/* footer */
+footer{
+    background-color: #007F73;
+    padding-top: 5%;
+    /* margin-top: 3%; */
+}
+.icon{
+    padding: 10px;
+    background-color: #007F73;
+    margin-right: 8px;
+}
+/* service */
+.service-main{
+    background-color: #EEEEEE;
+}
+.service-text{
+    padding: 4%;
+}
+.line{
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5px;
+    background-color: green;
+}
+.service-card{
+    width: 25rem;
+}
+.service-image{
+    width: 18%;
+}
+.service-h3{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #EEEEEE;
+    width: 90%;
+}
+.service-h3:hover{
+    border-bottom: 4px solid #007F73;
+}
